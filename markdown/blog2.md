@@ -1,7 +1,5 @@
-![My Profile Picture](images/profile_pic.jpg "My Profile Picture")
-
-##Tom Cruise
-This is my tagline.
+##Brad Pitt
+Second blog this is.
 
 ##About
 * This is a general comment about who I am.

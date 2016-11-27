@@ -1,7 +1,11 @@
-[About](#about)
+![My Profile Picture](../images/profile_pic.jpg "My Profile Picture")
 
-[Experience](#experience)
+#####My Opinions, My Voice
 
-[Links](#links)
+[First Blog](#blog1)
 
-[Contact](#contact)
+[Second Blog](#blog2)
+
+[First Blog](#blog1)
+
+[Second Blog](#blog2)
