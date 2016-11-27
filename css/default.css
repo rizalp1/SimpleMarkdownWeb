@@ -1,0 +1,24 @@
+#left_nav {
+    width: 180px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+
+    /* Fixed when rest of the content is scrolling */
+    position: fixed;
+}
+#main_body {
+    margin-left: 200px;
+    margin-right: 100px;
+}
+h2 {
+    color: #105940;
+}
+#main_body img {
+        width: 150px;
+        height: auto;
+        border-radius: 50%;
+}
+#left_nav p {
+    line-height: 70%;
+}
