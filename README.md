@@ -24,3 +24,16 @@ Essentially, someone can even deploy this static website written entirely in mar
 1. Replace profile_pic.jpg with your picture (if desired)
 1. Feel free to edit CSS or Javascript as required.
 1. Change the title to something more meaningful.
+
+# Troubleshooting
+### Running locally
+You will probably have problems running this locally without using a webserver of some sort because browsers restrict XHR on local file system (cross-domain).
+To fix this, you can install node and use npm to install http-server.
+
+> [Installing Node and NPM](https://docs.npmjs.com/getting-started/installing-node)
+
+> npm install http-server -g
+
+> cd path-to-code
+
+> http-server
